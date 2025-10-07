@@ -20,4 +20,6 @@ This project applies **CNNs**, **Autoencoders**, and **ML algorithms** for:
 ---| Task | Model | Accuracy |
 |------|--------|-----------|
 | Image Classification | CNN | 95% |
+
+
 | Audio Signal Separation | Autoencoder | 90% reconstruction quality |
